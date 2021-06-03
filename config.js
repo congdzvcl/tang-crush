@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://l.facebook.com/l.php?u=https%3A%2F%2Fcongdzvcl.github.io%2Ftang-crush%2F%3Ffbclid%3DIwAR0wS62MILrQ0MyO3jH2Is3jERPzg7fMH2id0O_To0LV2mCBG3Sjp7F2cfs&h=AT36boFHWyAfhmbfnkvv5glzoZphcjmc612gPRNh_Es_ng66hxvxf1AgoD-zk7zinrWxBUSQ7alCmwPkqRrSEFr2HiBKaYUcI0bgyG2owQ2ORMuQbsYCyIhzIdyBXHhdTikf' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
